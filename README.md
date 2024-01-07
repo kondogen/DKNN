@@ -1,9 +1,8 @@
 # DKNN
 
-This is an archive of codes for paper "Impacts of subjective evaluations and use of existing travel modes on adoption of autonomous mobility-on-demand"
+This is an archive of codes for paper "Axial compressive capacity prediction and optimal design of circular UHPC-filled steel tube based on genetic algorithms optimized ANN "
 
 The data that support the findings of this study are available from the authors upon reasonable request.
-
 
 In this work we validate our Domain Knowledge Enhanced Neural Network approach for circular CFST columns axial load prediction.
 
